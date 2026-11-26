@@ -1,0 +1,42 @@
+{
+  "id": "/kedai-tile-trip/",
+  "name": "Kedai Tile Trip",
+  "short_name": "Kedai Tiles",
+  "description": "Kedai Tile Trip by Zaib: a free triple tile match puzzle. Tap clay tiles of kuih, wau kites, batik and ketupat into your tray, match three to clear them and fill your Kedai Collection. 36 levels, free Undo, Shuffle and Send back.",
+  "lang": "en",
+  "start_url": "/kedai-tile-trip/?source=pwa",
+  "scope": "/kedai-tile-trip/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#3ec7a0",
+  "background_color": "#3ec7a0",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/kedai-tile-trip/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedai-tile-trip/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedai-tile-trip/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/kedai-tile-trip/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
